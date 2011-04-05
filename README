@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3540
+
+SaveCurrentFont
+  Adds the current font settings to your gvimrc
+
+It's a pain to remember the names of fonts when adding them to your config,
+so this function automates that process by using the current font settings.
+
+Just call SaveCurrentFont() to save the current font.
+
+
+
+Please report bugs to https://github.com/pydave/daveconfig/issues
+
